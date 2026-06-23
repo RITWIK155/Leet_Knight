@@ -3,5 +3,6 @@ class Solution(object):
         s2 = s.split()
         s3 = s2.pop()
         return len(s3)
+        # return len(s2[-1])
 
         
