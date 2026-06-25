@@ -1,0 +1,5 @@
+/* Write your T-SQL query statement below */
+select p.project_id, ROUND(AVG(CAST(e.experience_years AS DECIMAL(10,2))), 2) as average_years from Project p
+left join Employee e 
+on p.employee_id = e.employee_id
+group by p.project_id
