@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/RITWIK155/Leet_Knight/tree/master/0058-length-of-last-word) |
+## Database
+|  |
+| ------- |
+| [1070-product-sales-analysis-iii](https://github.com/RITWIK155/Leet_Knight/tree/master/1070-product-sales-analysis-iii) |
 <!---LeetCode Topics End-->
