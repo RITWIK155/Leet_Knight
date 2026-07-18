@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/RITWIK155/Leet_Knight/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RITWIK155/Leet_Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RITWIK155/Leet_Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/RITWIK155/Leet_Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
