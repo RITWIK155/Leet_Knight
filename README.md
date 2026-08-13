@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/RITWIK155/Leet_Knight/tree/master/0058-length-of-last-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RITWIK155/Leet_Knight/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Database
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RITWIK155/Leet_Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RITWIK155/Leet_Knight/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RITWIK155/Leet_Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RITWIK155/Leet_Knight/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/RITWIK155/Leet_Knight/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
