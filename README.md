@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RITWIK155/Leet_Knight/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RITWIK155/Leet_Knight/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RITWIK155/Leet_Knight/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Math
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RITWIK155/Leet_Knight/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/RITWIK155/Leet_Knight/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
